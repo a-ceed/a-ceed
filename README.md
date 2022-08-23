@@ -29,4 +29,6 @@ I am a UI/UX Designer and Web Developer <img src="https://media.giphy.com/media/
 
 ### 🛠 &nbsp; Learn projets :
 Mongo-Express-React Blog + Docker conteiner: &nbsp;[learn.aceed.ru](https://learn.aceed.ru)
+
+Front repository: https://github.com/a-ceed/mern-blog-frontend
 Backend repository: https://github.com/a-ceed/dark-blog-backend
