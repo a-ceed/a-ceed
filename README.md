@@ -39,4 +39,4 @@ React-Gatsby: &nbsp;[npozst.ru](https://npozst.ru) Repository: [https://github.c
 
 React: &nbsp;[cheair.ru](https://npozst.ru) Repository: [https://github.com/a-ceed/treact-ui](https://github.com/a-ceed/treact-ui)
 
-React-Gatsby: &nbsp;[npozst.ru](https://npozst.ru) Repository: [https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/my-default-starter)
+Java-Script Native: &nbsp;[internationaltrashaward.org](https://npozst.ru) Repository: [[https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/trash)
