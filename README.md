@@ -35,8 +35,14 @@ Front repository: https://github.com/a-ceed/mern-blog-frontend
 Backend repository: https://github.com/a-ceed/dark-blog-backend
 
 ### 🛠 &nbsp; Open Sources projets :
-React-Gatsby: &nbsp;[npozst.ru](https://npozst.ru) Repository: [https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/my-default-starter)
+React-Gatsby: &nbsp;[npozst.ru](https://npozst.ru) 
 
-React: &nbsp;[cheair.ru](https://cheair.ru) Repository: [https://github.com/a-ceed/treact-ui](https://github.com/a-ceed/treact-ui)
+Repository: [https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/my-default-starter)
 
-JavaScript Native: &nbsp;[internationaltrashaward.org](https://internationaltrashaward.org) Repository: [https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/trash)
+React: &nbsp;[cheair.ru](https://cheair.ru) 
+
+Repository: [https://github.com/a-ceed/treact-ui](https://github.com/a-ceed/treact-ui)
+
+JavaScript Native: &nbsp;[internationaltrashaward.org](https://internationaltrashaward.org) 
+
+Repository: [https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/trash)
