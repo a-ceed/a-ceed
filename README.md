@@ -28,7 +28,7 @@ I am a UI/UX Designer and Web Developer <img src="https://media.giphy.com/media/
 ---
 
 ### 🛠 &nbsp; Learn projets :
-Mongo-Express-React-Redux Blog + Docker conteiner: &nbsp;[learn.aceed.ru](http://learn.aceed.ru)
+Mongo-Express-React-Redux Blog + Docker container: &nbsp;[learn.aceed.ru](http://learn.aceed.ru)
 
 Front repository: https://github.com/a-ceed/mern-blog-frontend
 
@@ -39,4 +39,4 @@ React-Gatsby: &nbsp;[npozst.ru](https://npozst.ru) Repository: [https://github.c
 
 React: &nbsp;[cheair.ru](https://cheair.ru) Repository: [https://github.com/a-ceed/treact-ui](https://github.com/a-ceed/treact-ui)
 
-JavaScript Native: &nbsp;[internationaltrashaward.org](https://internationaltrashaward.org) Repository: [[https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/trash)
+JavaScript Native: &nbsp;[internationaltrashaward.org](https://internationaltrashaward.org) Repository: [https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/trash)
