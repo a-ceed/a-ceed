@@ -38,10 +38,12 @@ Backend repository: https://github.com/a-ceed/dark-blog-backend
 React-Gatsby: &nbsp;[npozst.ru](https://npozst.ru) 
 
 Repository: [https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/my-default-starter)
+----
 
-React: &nbsp;[cheair.ru](https://cheair.ru) 
+React: &nbsp;[cheair.ru](https://cheair.ru)
 
 Repository: [https://github.com/a-ceed/treact-ui](https://github.com/a-ceed/treact-ui)
+--
 
 JavaScript Native: &nbsp;[internationaltrashaward.org](https://internationaltrashaward.org) 
 
