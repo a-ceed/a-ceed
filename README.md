@@ -55,4 +55,4 @@ Repository: [https://github.com/a-ceed/treact-ui](https://github.com/a-ceed/trea
 ---
 JavaScript Native: &nbsp;[internationaltrashaward.org](https://internationaltrashaward.org) 
 
-Repository: [https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/trash)
+Repository: [https://github.com/a-ceed/trash](https://github.com/a-ceed/trash)
