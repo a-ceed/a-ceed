@@ -31,9 +31,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### 🛠 &nbsp; Open Sources projets :
 
-Mongo-Express-React-Redux Blog + Docker container: &nbsp;[learn.aceed.ru](http://learn.aceed.ru)
-
-internationaltrashaward.org: &nbsp;[internationaltrashaward.org](https://internationaltrashaward.org) 
+Mongo-NestJS-VaniliaJS + Docker: &nbsp;[internationaltrashaward.org](https://internationaltrashaward.org) 
 
 Repository: [https://github.com/a-ceed/trash](https://github.com/a-ceed/trash)
 
