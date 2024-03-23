@@ -36,6 +36,12 @@ Mongo-NestJS-VaniliaJS + Docker: &nbsp;[internationaltrashaward.org](https://int
 Repository: [https://github.com/a-ceed/trash](https://github.com/a-ceed/trash)
 
 ---
+
+React: &nbsp;[cheair.ru](https://cheair.ru)
+
+Repository: [https://github.com/a-ceed/treact-ui](https://github.com/a-ceed/treact-ui)
+
+---
 React-Gatsby: &nbsp;[npozst.ru](https://npozst.ru) 
 
 Repository: [https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/my-default-starter)
@@ -45,11 +51,4 @@ Next JS SSG: &nbsp;[temniyecolog.ru](https://temniyecolog.ru)
 
 Repository: [https://github.com/a-ceed/dark-blog-page](https://github.com/a-ceed/dark-blog-page)
 
----
-
-
-
-React: &nbsp;[cheair.ru](https://cheair.ru)
-
-Repository: [https://github.com/a-ceed/treact-ui](https://github.com/a-ceed/treact-ui)
 
