@@ -46,9 +46,5 @@ React-Gatsby: &nbsp;[npozst.ru](https://npozst.ru)
 
 Repository: [https://github.com/a-ceed/mern-blog-frontend](https://github.com/a-ceed/my-default-starter)
 
----
-Next JS SSG: &nbsp;[temniyecolog.ru](https://temniyecolog.ru) 
-
-Repository: [https://github.com/a-ceed/dark-blog-page](https://github.com/a-ceed/dark-blog-page)
 
 
