@@ -31,12 +31,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### 🛠 &nbsp; Open Sources projets :
 
-Mongo-NestJS-VaniliaJS + Docker: &nbsp;[internationaltrashaward.org](https://internationaltrashaward.org) 
-
-Repository: [https://github.com/a-ceed/trash](https://github.com/a-ceed/trash)
-
----
-
 React: &nbsp;[cheair.ru](https://cheair.ru)
 
 Repository: [https://github.com/a-ceed/treact-ui](https://github.com/a-ceed/treact-ui)
